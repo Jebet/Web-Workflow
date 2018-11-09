@@ -1,0 +1,25 @@
+{
+  "name": "flow",
+  "version": "1.0.0",
+  "description": "npm,sass,scss,gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jebet/Web-Workflow.git"
+  },
+  "keywords": [
+    "Gulp",
+    "Sass",
+    "Scss",
+    "Npm"
+  ],
+  "author": "Ms Jebet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jebet/Web-Workflow/issues"
+  },
+  "homepage": "https://github.com/Jebet/Web-Workflow#readme"
+}
